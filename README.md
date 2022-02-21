@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JinSing
+- 👀 I’m interested in web, android and ios development.
+- 🌱 I’m currently learning python, asp.net.
+- 💞️ I’m looking to collaborate on web project.
+- 📫 My email address is yknox_pm@hotmail.com, and same for skype.
